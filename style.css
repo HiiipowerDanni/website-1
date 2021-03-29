@@ -1,0 +1,47 @@
+/*
+Danielle Williams 
+Spring 2017 
+
+COLOR CODES: 
+MAROON                 : #800000
+LIGHT BROWN            : #802600
+BURGANDY               : #80002b
+RED                    : #e60000
+GRAY                   : #404040
+BLACK                  : #000000
+
+*/
+body { font-family: verdana, geneva, times; font-size: 14px; font-weight: bold; color: #000000; 
+  background-image: url("Danielle-Williams-Lab3-Photos/plumbing.jpg");
+  background-repeat:repeat; 
+  background-position: top center;
+}
+img {width: 35%; }
+
+.wrapper {width: 90%; margin: 0 auto; max-width: 960px; 
+background-color: #802600; padding: 3%; border: 2px, #80002b;
+}
+
+nav {width:30%; float:left;  }
+nav* {margin:0; padding:0; }
+nav ul {list-style-type: none; }
+#main { width:70%; float:left; }
+
+
+h4, p, strong { text-align: center; font-style: italic }
+h1  { text-align: center; font-weight: bold; color: #800000 }
+li { text-decoration: underline; color: #802600; }
+h5 { font-weight: bolder; text-align: center; text-decoration-style: solid }
+
+#faucet {float: left; padding-right: 1%; }
+
+.name {font-weight: bolder; color:#80002b; 
+  text-decoration: underline; }
+
+.left {float:left; }
+.right {float:right; }
+.clear { clear:both; }
+
+
+ section { background-color: #979090; color: #e60000; font-weight: normal }
+     
